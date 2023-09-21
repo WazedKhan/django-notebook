@@ -1,7 +1,7 @@
 # Setup Instruction
 
 1. Create a folder with any name _(I suggest a directory name which will be ignored by git)_ of your choices
-2. Create a file with name `notebook_config.py` or anything suits for you best
+2. Create a file with name `notebook_config.py` or anything suits for you best and copy the code in `notebook_config.py` and put it in your file
 3. Create a `.env` file and create a variable with value like: `DJANGO_PROJECT="your_project_name"`
 4. Open notebook using `ctrl + shift  +P` for mac `Cmd + Shift + P`
 5. Chose kernel as you project default environment
